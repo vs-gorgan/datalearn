@@ -10,3 +10,7 @@ DE-101/Module1/
 
 ## Архитектура Аналитического Решения
 ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module01/Architecture.png)
+
+## Аналитика в Excel
+Файл Sample - Superstore (map only).xlsx выполнено: 
+- Sales per region
