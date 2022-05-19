@@ -20,4 +20,4 @@
 
 ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/SqlDBM.png)
 
-2. Используя 'INSERT INTO SQL` заполнена таблица [Location](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/_Custumer_location__202205192247.sql)
+2. Используя `INSERT INTO SQL` заполнена таблица [Location](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/_Custumer_location__202205192247.sql)
