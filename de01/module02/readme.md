@@ -16,4 +16,8 @@
 ## 2.4: Модели Данных
 
 ### Практика:
-Используя инструмент для создания диаграмм [SqlDBM](https://sqldbm.com/Home/) создана модель данных Superstore
+1. Используя инструмент для создания диаграмм [SqlDBM](https://sqldbm.com/Home/) создана модель данных Superstore
+
+![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/SqlDBM.png)
+
+2. Используя 'INSERT INTO SQL` заполнена таблица [Location](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/_Custumer_location__202205192247.sql)
