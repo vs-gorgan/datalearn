@@ -21,3 +21,11 @@
 ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/SqlDBM.png)
 
 2. Используя `INSERT INTO SQL` заполнена таблица [Location](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/_Custumer_location__202205192247.sql)
+
+## 2.5: База данных в облаке
+
+Увы ((
+
+Изучение прошло исключительно по [видео](https://www.youtube.com/watch?v=UzILBlOAQ9s&list=PLkcP_moW_BpOQUmtgSaw3XswlpeO5RYgA&index=5) и [картинкам](https://github.com/Data-Learn/data-engineering/blob/master/how-to/how_to_amazon_rds.md)
+
+![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/AWS%20error.png)
