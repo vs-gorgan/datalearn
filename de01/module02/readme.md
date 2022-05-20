@@ -29,3 +29,12 @@
 Изучение прошло исключительно по [видео](https://www.youtube.com/watch?v=UzILBlOAQ9s&list=PLkcP_moW_BpOQUmtgSaw3XswlpeO5RYgA&index=5) и [картинкам](https://github.com/Data-Learn/data-engineering/blob/master/how-to/how_to_amazon_rds.md)
 
 ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/AWS%20error.png) ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/AWS_error_pay.png)
+
+## 2.4: Как донести данные до бизнес-пользователя (Пример решений на Google Sheets)
+
+### Практика:
+
+AWS недоступен. В качестве источника данных выбран Google Docs, в который загружена таблица.
+Визуализация построена на Google data studio.
+
+[!cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/datastudio.png)
