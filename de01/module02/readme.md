@@ -37,4 +37,4 @@
 AWS недоступен. В качестве источника данных выбран Google Docs, в который загружена таблица.
 Визуализация построена на Google data studio.
 
-[!cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/datastudio.png)
+![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/datastudio.png)
