@@ -35,7 +35,7 @@
 [X] Выполнено подключение и заполнение данных через DBeaver
 
 ### _Amazon_
-![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/aws-rds-database.png
+![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/aws-rds-database.png)
 
 ### _DBeaver_
 ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/DBeaver.png)
