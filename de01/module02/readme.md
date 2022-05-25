@@ -30,7 +30,13 @@
 
 ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/AWS%20error.png) ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/AWS_error_pay.png)
 
-## 2.4: Как донести данные до бизнес-пользователя (Пример решений на Google Sheets)
+[X] Получена учётная запись в AWS!!!
+[X] Создана БД RDS.
+[X] Выполнено подключение и заполнение данных через DBeaver
+
+### _Amazon_
+
+## 2.6: Как донести данные до бизнес-пользователя (Пример решений на Google Sheets)
 
 ### Практика:
 
