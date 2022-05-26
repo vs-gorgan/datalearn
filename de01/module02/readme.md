@@ -30,9 +30,9 @@
 
 ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/AWS%20error.png) ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/AWS_error_pay.png)
 
-[X] Получена учётная запись в AWS!!!
-[X] Создана БД RDS.
-[X] Выполнено подключение и заполнение данных через DBeaver
+- [X] Получена учётная запись в AWS!!!
+- [X] Создана БД RDS.
+- [X] Выполнено подключение и заполнение данных через DBeaver
 
 ### _Amazon_
 ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module02/aws-rds-database.png)
