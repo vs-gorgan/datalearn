@@ -3,3 +3,6 @@
 ## ETL на примере Pentaho Data
 ![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module04/pentaho_pipes.png)
 Используя ETL инструмент Pentaho Data Integration созданы задачи на загрузку файлов (через `http` или `shell`) и трансформации, для получения отфильтрованных данных (json, xml, csv, dat).
+
+В планировщик операционной системы добавлен скрипт для запуска задачи загрузки и обработки данных.
+![cover](https://github.com/vs-gorgan/datalearn/blob/main/de01/module04/pentaho.png)
